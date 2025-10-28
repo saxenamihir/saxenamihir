@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saxenamihir
 - 👀 I’m interested in coding ,web development and reading books.
-- 🌱 I’m currently learning dsa in java , reactjs and javascript.
+- 🌱 I’m currently focused on building more projects and exploring and learning more about web technologies and frameworks.
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 You can reach out to me throgh Linkedin: https://www.linkedin.com/in/mihir-saxena1/ or gmail:mihirsaxena99@gmail.com
+- 📫 You can reach out to me through Linkedin: https://www.linkedin.com/in/mihir-saxena-b92b0b237/ or gmail:mihirsaxena99@gmail.com
 - 😄 Pronouns: He/Him
